@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student | Aspiring Developer<br><br>I'm a student learning computer science and coding. I enjoy working with programming languages like C, Python, and Java, and I'm exploring web development too. I'm always eager to learn new things and improve my skills. Looking forward to contributing to projects and growing as a developer!
+Computer Science Student | Aspiring Developer<br><br>I'm a student learning computer science and coding. I enjoy working with programming languages like C, Python and I'm exploring web development too. I'm always eager to learn new things and improve my skills. Looking forward to contributing to projects and growing as a developer!
 
 
 ## 🌐 Socials:
