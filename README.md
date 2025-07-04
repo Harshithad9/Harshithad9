@@ -1,6 +1,6 @@
 ## 💻 About:
 I'm a passionate Computer Science student with a strong foundation in programming using languages like C and Python. Currently, I'm diving into the world of web development, building hands-on experience with modern tools and technologies. I'm curious, self-driven, and always eager to expand my skills through real-world projects, hackathons, and collaborative learning. I aim to grow into a well-rounded developer and contribute meaningfully to impactful tech solutions.
-
+Passionate and self-driven Computer Science student with a strong foundation in programming using C and Python. Currently building hands-on experience in modern web development and actively exploring the field of Artificial Intelligence. Enthusiastic about real-world projects, hackathons, and collaborative learning environments. Eager to grow into a well-rounded developer and contribute to impactful, tech-driven solutions that make a difference.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harssh9__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshitha-d-10ba05265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharshitha292@gmail.com) 
