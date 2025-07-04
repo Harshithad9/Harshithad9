@@ -1,5 +1,4 @@
 ## 💻 About:
-I'm a passionate Computer Science student with a strong foundation in programming using languages like C and Python. Currently, I'm diving into the world of web development, building hands-on experience with modern tools and technologies. I'm curious, self-driven, and always eager to expand my skills through real-world projects, hackathons, and collaborative learning. I aim to grow into a well-rounded developer and contribute meaningfully to impactful tech solutions.
 Passionate and self-driven Computer Science student with a strong foundation in programming using C and Python. Currently building hands-on experience in modern web development and actively exploring the field of Artificial Intelligence. Enthusiastic about real-world projects, hackathons, and collaborative learning environments. Eager to grow into a well-rounded developer and contribute to impactful, tech-driven solutions that make a difference.
 
 ## 🌐 Socials:
