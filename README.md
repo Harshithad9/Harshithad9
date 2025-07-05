@@ -1,5 +1,4 @@
 ## 💻 About:
-
 Passionate and self-driven Computer Science student with a strong foundation in programming using C and Python. Currently building hands-on experience in modern web development and actively exploring the field of Artificial Intelligence. Enthusiastic about real-world projects, hackathons, and collaborative learning environments. Eager to grow into a well-rounded developer and contribute to impactful, tech-driven solutions that make a difference.
 
 ## 🌐 Socials:
