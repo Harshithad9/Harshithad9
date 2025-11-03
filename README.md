@@ -10,7 +10,13 @@
 # 🏆 Achievements:  
 - 2nd Prize – Inovact PowerUp Challenge 2025 (PromptPal)  
 - Best Teamwork Award – Techno Spark Hackathon  
-- 3rd Prize – Technical Quiz, SPARDHA 2024  
+- 3rd Prize – Technical Quiz, SPARDHA 2024
+
+# 🌱 Currently learning: Backend development, REST APIs, and Cloud integration  
+  💬 Ask me about: Frontend, React.js, and Full Stack development  
+  📫 Reach me at: dharshitha292@gmail.com  
+
+  📈 *“Turning ideas into interactive experiences.”*  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harshithad9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
