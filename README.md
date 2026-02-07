@@ -1,9 +1,9 @@
 ## 💻 About:
-Aspiring Software Engineer | Machine Learning & Full Stack Developer
+Aspiring Software Engineer | Frontend & Full Stack Developer
 - Strong in Python, Machine Learning, and Web Development
 - Infosys Springboard Intern – AI-Powered Aadhaar Fraud Detection
 - Built real-world ML and full-stack projects
-- Actively seeking entry-level software / ML roles
+- Actively seeking entry-level software / Full Stack roles
 
 
 ## 🌐 Socials:
