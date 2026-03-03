@@ -6,6 +6,12 @@ Aspiring Software Engineer | Frontend & Full Stack Developer
 - Actively seeking entry-level software / Full Stack roles
 
 
+
+
+
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harssh9__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshitha-d-10ba05265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharshitha292@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-D14836?logo=portfolio&logoColor=Blue)](https://codebyharshithad.netlify.app) 
 
