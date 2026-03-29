@@ -41,8 +41,3 @@ Aspiring Software Engineer | Frontend & Full Stack Developer
 [![](https://visitcount.itsvg.in/api?id=Harshithad9&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
