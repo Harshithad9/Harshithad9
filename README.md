@@ -14,10 +14,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: [Your Link]
-- 📧 Email: yourmail@gmail.com
-- 🌍 Portfolio: [Your Portfolio Link]
-- 📸 Instagram: [Your Link]
+- 💼 LinkedIn: https://www.linkedin.com/in/dharshitha5
+- 📧 Email: dharshitha292@gmail.com
+- 🌍 Portfolio: https://codebyharshithad.netlify.app
 
 ---
 
@@ -37,41 +36,10 @@ Git | GitHub | Netlify
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 AI-Powered Aadhaar Fraud Detection
-- Built ML model to detect fraudulent Aadhaar usage  
-- Integrated with frontend for real-time validation  
-
-### 🔹 QuizQuest (Quiz Platform)
-- Interactive quiz system with timer & scoring  
-- Built using HTML, CSS, JavaScript  
-
-### 🔹 Food Donation Platform
-- Real-time surplus food sharing system  
-- Helps reduce food waste & support communities  
-
----
-
 ## 🏆 Achievements
 - 🥈 2nd Prize – Inovact PowerUp Challenge 2025 (PromptPal)  
 - 🤝 Best Teamwork Award – Techno Spark Hackathon  
 - 🥉 3rd Prize – Technical Quiz, SPARDHA 2024  
-
----
-
-## 📊 GitHub Stats
-<!-- Add GitHub stats card here -->
-
----
-
-## 🏆 GitHub Trophies
-<!-- Add trophies here -->
-
----
-
-## ✍️ Dev Quote
-_"Consistency beats talent when talent doesn’t work hard."_  
 
 ---
 
