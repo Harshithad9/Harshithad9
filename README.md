@@ -1,45 +1,81 @@
-## 💻 About:
-Aspiring Software Engineer | Frontend & Full Stack Developer
-- Strong in Python, and Web Development
-- Infosys Springboard Intern – AI-Powered Aadhaar Fraud Detection
-- Built real-world ML and full-stack projects
-- Actively seeking entry-level software / Full Stack roles
-
-
-
-
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harssh9__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshitha-d-10ba05265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharshitha292@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-D14836?logo=portfolio&logoColor=Blue)](https://codebyharshithad.netlify.app) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-# 🏆 Achievements:  
-- 2nd Prize – Inovact PowerUp Challenge 2025 (PromptPal)  
-- Best Teamwork Award – Techno Spark Hackathon  
-- 3rd Prize – Technical Quiz, SPARDHA 2024
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harshithad9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harshithad9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithad9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harshithad9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harshithad9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Harshitha D</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | MERN Stack Developer | Problem Solver</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harshithad9&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 About Me
+- 🎓 Final Year Information Science Engineering Student  
+- 💡 Strong in Python, Web Development & Problem Solving  
+- 🤖 Infosys Springboard Intern – AI-Powered Aadhaar Fraud Detection  
+- 🛠️ Built real-world ML + Full Stack Projects  
+- 🌱 Currently improving DSA & Backend skills  
+- 🎯 Actively seeking Entry-Level Software / Full Stack Roles  
 
+---
 
+## 🌐 Connect with Me
+- 💼 LinkedIn: [Your Link]
+- 📧 Email: yourmail@gmail.com
+- 🌍 Portfolio: [Your Portfolio Link]
+- 📸 Instagram: [Your Link]
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
+C | Python | JavaScript  
+
+### 🎨 Frontend
+HTML | CSS | React | TailwindCSS | Vite  
+
+### ⚙️ Backend & Database
+MongoDB | Node.js | Express.js  
+
+### 🛠️ Tools & Platforms
+Git | GitHub | Netlify  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI-Powered Aadhaar Fraud Detection
+- Built ML model to detect fraudulent Aadhaar usage  
+- Integrated with frontend for real-time validation  
+
+### 🔹 QuizQuest (Quiz Platform)
+- Interactive quiz system with timer & scoring  
+- Built using HTML, CSS, JavaScript  
+
+### 🔹 Food Donation Platform
+- Real-time surplus food sharing system  
+- Helps reduce food waste & support communities  
+
+---
+
+## 🏆 Achievements
+- 🥈 2nd Prize – Inovact PowerUp Challenge 2025 (PromptPal)  
+- 🤝 Best Teamwork Award – Techno Spark Hackathon  
+- 🥉 3rd Prize – Technical Quiz, SPARDHA 2024  
+
+---
+
+## 📊 GitHub Stats
+<!-- Add GitHub stats card here -->
+
+---
+
+## 🏆 GitHub Trophies
+<!-- Add trophies here -->
+
+---
+
+## ✍️ Dev Quote
+_"Consistency beats talent when talent doesn’t work hard."_  
+
+---
+
+## 🔥 What I'm Focused On
+- 💻 Full Stack Development (MERN)
+- 🧠 Data Structures & Algorithms
+- 🚀 Building impactful real-world projects
